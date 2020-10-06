@@ -43,13 +43,3 @@ class TodoForm extends React.Component {
 }
 
 export default TodoForm;
-
-// <li>
-//   <input
-//     type="checkbox"
-//     checked={props.isChecked}
-//     onChange={props.handleToggle}
-//   />
-//   <div>{props.todo}</div>
-//   <div>X</div>
-// </li>
